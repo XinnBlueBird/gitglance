@@ -2,7 +2,7 @@
 
 Read your git log like a senior engineer. Paste any `git log` output, get velocity stats, contributor breakdowns, churn hotspots, anti-patterns, and concrete recommendations — powered by MiMo v2.5 Pro reasoning.
 
-**Live**: https://gitglance.vercel.app
+**Live**: https://gitglance-coral.vercel.app
 **Repo**: https://github.com/XinnBlueBird/gitglance
 
 ---
